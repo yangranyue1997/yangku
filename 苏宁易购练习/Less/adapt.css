@@ -1,0 +1,36 @@
+@media only screen and (width: 320px) {
+  html {
+    font-size: 16px;
+    height: 100%;
+  }
+}
+@media only screen and (width: 360px) {
+  html {
+    font-size: 18px;
+    height: 100%;
+  }
+}
+@media only screen and (width: 375px) {
+  html {
+    font-size: 18.75px;
+    height: 100%;
+  }
+}
+@media only screen and (width: 414px) {
+  html {
+    font-size: 20.7px;
+    height: 100%;
+  }
+}
+@media only screen and (width: 768px) {
+  html {
+    font-size: 38.4px;
+    height: 100%;
+  }
+}
+@media only screen and (width: 1024px) {
+  html {
+    font-size: 51.2px;
+    height: 100%;
+  }
+}
